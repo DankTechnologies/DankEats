@@ -1,0 +1,11 @@
+{{ with . }}
+<div class="post-related">
+    <h2>Related Recipes</h2>
+    {{ range . }}
+    <button class="button">
+        <a href="{{ "recipes/" | absLangURL }}{{ . | urlize }}/">{{. | humanize}}</a>
+        </a>
+    </button>
+    {{ end }}
+</div>
+{{ end }}

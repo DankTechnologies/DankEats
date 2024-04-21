@@ -1,0 +1,22 @@
+{{ $src := .Page.Resources.GetMatch "*.jpg" }}
+
+{{ if $src }}
+  {{ if .IsThumb }}
+    {{ $imgThumb := $src.Fill "100x100 center" }}
+    <img src="{{ $imgThumb.RelPermalink }}" width="{{ $imgThumb.Width }}" height="{{ $imgThumb.Height }}" alt="{{ .Page.Title }}">
+  {{ else }}
+    {{/* Pre-resize images and assign to variables */}}
+    {{ $imgLarge := ($src.Resize "1500x").RelPermalink }}
+    {{ $imgMedium := ($src.Resize "1200x").RelPermalink }}
+    {{ $imgSmall := ($src.Resize "800x").RelPermalink }}
+
+    <div class="image-container">
+      <picture>
+        <source media="(min-width: 1200px)" srcset="{{ $imgLarge }}">
+        <source media="(min-width: 800px)" srcset="{{ $imgMedium }}">
+        <source media="(min-width: 500px)" srcset="{{ $imgSmall }}">
+        <img src="{{ $imgMedium }}" alt="{{ .Page.Title }}" class="content">
+      </picture>
+    </div>
+  {{ end }}
+{{ end }}

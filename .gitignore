@@ -1,0 +1,8 @@
+public
+public_dev
+resources
+.stfolder
+.syncthing*
+.wrangler
+**/*.jpg
+scratch/

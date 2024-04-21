@@ -1,0 +1,13 @@
+[Unit]
+Description=Hugo Development Server
+After=network.target
+
+[Service]
+Type=simple
+User=dan
+WorkingDirectory=/home/dan/code/dankeats
+ExecStart=/usr/local/bin/hugo server --baseURL "http://192.168.0.206:1313" --bind "192.168.0.206" --port 1313 --buildDrafts --buildFuture -d public_dev
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

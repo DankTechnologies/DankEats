@@ -1,0 +1,4 @@
+{{ $year := .Get 0 }}
+{{ $currentYear := now.Format "2006" }}
+{{ $yearsSince := sub (int $currentYear) (int $year) }}
+{{ $yearsSince }} years

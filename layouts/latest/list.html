@@ -1,0 +1,28 @@
+{{ define "main" }}
+    {{ $paginator := .Paginate .Data.Pages }}
+
+    <main class="latest-recipes">
+        {{ range $paginator.Pages.GroupByDate "Jan 2006" }}
+            <div class="latest-recipes-year">{{ .Key }}</div>
+            <hr>
+            <div class="latest-recipes-group">
+                <ul class="latest-recipes-list">
+                    {{ range .Pages }}
+                        <li class="latest-recipe">
+                            <div class="latest-recipe-thumb">
+                                <a href="{{.Permalink}}">
+                                    {{ partial "smart-img.html" (dict "Page" . "IsThumb" true) }}
+                                </a>
+                            </div>
+                            <div class="latest-recipe-info">
+                                <a href="{{.Permalink}}" class="latest-recipe-info-title">{{.Title}}</a>
+                                <div class="latest-recipe-info-summary">{{.Params.description}}</div>
+                            </div>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
+        {{ end }}
+    {{ partial "pagination-list.html" . }}
+    </main>
+{{ end }}

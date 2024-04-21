@@ -1,0 +1,35 @@
+.find {
+
+  .button {
+    border-radius: 5px;
+  }
+
+  .button + .button {
+    margin-left: 0;
+  }
+
+  #search {
+    margin-top: 20px;
+
+    --pagefind-ui-background: #{$light-background};
+    --pagefind-ui-text: #{$light-color};
+    --pagefind-ui-border: #{$light-border-color};
+    --pagefind-ui-tag: #{$light-border-color};
+    --pagefind-ui-font: Inter;
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-border-width: 2px;
+    --pagefind-ui-border-radius: 5px;
+
+    @media (prefers-color-scheme: dark) {
+      --pagefind-ui-background: #{$dark-background};
+      --pagefind-ui-text: #{$dark-color};
+      --pagefind-ui-border: #{$dark-border-color};
+      --pagefind-ui-tag: #{$dark-border-color};
+    }
+
+    @media #{$media-size-phone} {
+      --pagefind-ui-scale: 0.8;
+    }
+  }
+
+}

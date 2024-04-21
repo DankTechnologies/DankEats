@@ -1,0 +1,11 @@
+<div class="custom-column" style="--custom-width: {{ .Get "width" | default "auto" }};">
+  {{ .Inner | markdownify }}
+</div>
+
+<style>
+  @media (min-width: 768px) {
+    .custom-column {
+      flex: 1 1 var(--custom-width, auto);
+    }
+  }  
+</style>

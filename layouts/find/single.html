@@ -1,0 +1,34 @@
+{{ define "main" }}
+<main class="posts find">
+  <div>
+    {{ range $taxonomyName, $taxonomy := .Site.Taxonomies }}
+    {{ range $key, $value := $taxonomy }}
+    {{ if gt (len $value.Pages) 1 }}
+    <button class="button">
+      <a href="{{ printf "/%s/" $taxonomyName | relLangURL }}{{ $key | urlize }}">
+        {{ $key | humanize }} {{ len $value.Pages }}
+      </a>
+    </button>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
+  <div id="search"></div>
+</main>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+          element: "#search",
+          showSubResults: false,
+          showImages: false,
+          autofocus: window.innerWidth > 768,
+          processResult: function (result) {
+            result.meta.title = result.meta.title.replace(" | DanK Eats", '')
+            return result;
+        }
+        });
+    });
+</script>
+{{ end }}

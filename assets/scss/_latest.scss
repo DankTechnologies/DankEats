@@ -1,0 +1,66 @@
+.latest-recipes {
+    width: 100%;
+    max-width: 800px;
+    text-align: left;
+    padding: 20px;
+
+    &:not(:last-of-type) {
+      // Default
+      border-bottom: 1px solid $light-border-color;
+
+      @media (prefers-color-scheme: dark) {
+        border-bottom: 1px solid $dark-border-color;
+      }
+
+      @media (prefers-color-scheme: light) {
+        border-bottom: 1px solid $light-border-color;
+      }
+
+      [data-theme=dark] & {
+        border-bottom: 1px solid $dark-border-color;
+      }
+
+      [data-theme=light] & {
+        border-bottom: 1px solid $light-border-color;
+      }
+    }
+
+    &-year {
+        padding-top: 6px;
+        margin-right: 1.8em;
+        font-size: 2.0em;
+        @include dimmed;
+      }
+
+    &-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .latest-recipe {
+        display: flex;
+        padding: 20px 0;
+        gap: 20px;
+
+        &-info {
+            margin-top: -7px;
+            flex-grow: 1; /* Allows the info section to take up remaining space */
+
+            &-title {
+                font-size: 1.2rem;
+                letter-spacing: 0.10em;
+                text-decoration: none;
+            }
+
+            &-summary {
+                font-size: 0.9em;
+                @include dimmed;
+            }
+        }
+
+        &-thumb {
+            flex: 0 0 100px; /* Do not grow or shrink, stay fixed at 100px width */
+        }
+    }
+}

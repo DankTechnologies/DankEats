@@ -1,0 +1,31 @@
+{{ define "main" }}
+    <main class="post recipes">
+
+        <div class="post-info">
+            {{ if .IsTranslated }}
+                {{ i18n "postAvailable" }}
+                {{ range .Translations }}
+                    <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }}"></span></a>
+                {{ end}}
+            {{ end }}
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+            <div class="post-content" data-pagefind-body>
+                <div class="post-info description">{{ default .Params.description .Params.summary }}</div>
+                {{ partial "smart-img.html" (dict "Page" . "IsThumb" false) }}
+                <div class="post-info">
+                    {{ partial "credit.html" .Params.credit }}
+                    {{ partial "yield.html" .Params.yield }}
+                    {{ partial "tags.html" .Params.tags }}
+                </div>
+                <hr>
+                {{ .Content }}
+            </div>
+            {{ partial "related.html" .Params.related }}
+        </article>
+    </main>
+    <script src="{{ "/js/super-notes.js" | absURL }}"></script>
+{{ end }}

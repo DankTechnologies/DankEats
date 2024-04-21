@@ -1,0 +1,55 @@
+baseurl = "/"
+title = 'DanK Eats'
+languageCode = "en-us"
+theme = ['hello-friend-ng', 'hugo-shortcode-gallery']
+
+paginate  = 10
+rssLimit  = 10
+
+buildDrafts = false
+disableRSS = false
+
+[taxonomies]
+  tag = "tags"
+  cuisine = "cuisine"
+  main_ingredient = "main_ingredients"
+
+
+
+[params]
+  homeSubtitle = "this is what i cook for my family"
+  homeTitle = "Hi, I'm Dan K"
+
+  [params.logo]
+    path = "/images/logo-header-small.png"
+    logoHomeLink = "/"
+    logoCursorDisabled = true
+
+  [params.portrait]
+    path     = "images/logo-pizza.jpg"
+    height   = 258
+    width    = 400
+    alt      = "Pizza"
+
+[languages]
+  [languages.en.params]
+
+    [languages.en.params.logo]
+      logoText = "DanK Eats"
+      logoHomeLink = "/"
+
+[[menu.main]]
+  identifier = "find"
+  name = "Find"
+  url = "/find"
+
+[[menu.main]]
+  identifier = "recipes"
+  name = "Latest Recipes"
+  url = "/recipes"
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
