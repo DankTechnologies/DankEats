@@ -4,7 +4,7 @@ date: 2024-03-23T01:15:55-05:00
 draft: false
 summary: Emulsion made from roasted chile de árbol, tomato, garlic, and onion, balanced with honey, lime, and salt.  It can be made year round, even with lousy roma tomatoes.  You will want to keep this on hand and put it on everything.
 description: the good stuff you get at the taco truck
-related: [nachos]
+related: [nachos, green-sauce]
 cuisine: Mexican
 tags: [sauce, spicy]
 tools: [sheet pan, blender]
@@ -19,7 +19,7 @@ yield: ~16 oz
 ### Perishable
 
 * **3** roma tomatoes{{< super-notes "1" >}}
-* **1/2** yellor or white onion
+* **1/2** yellow or white onion
 * **2-4** garlic cloves
 * **1** lime
 

@@ -39,7 +39,7 @@ yield: serves 2-3
 
 * tortilla chips
 * (optional) leftover meats, like [Chicken Carnitas](/recipes/chicken-carnitas/)
-* (optional) sauce to drizzle, like [Orange Sauce](/recipes/orange-sauce/)
+* (optional) sauce to drizzle, like [Orange Sauce](/recipes/orange-sauce/) or [Green Sauce](/recipes/green-sauce/)
 
 ## Steps
 
