@@ -1,7 +1,7 @@
 ---
 title: "Chicken Tinga"
 date: 2024-05-24T23:44:36-05:00
-draft: true
+draft: false
 summary: chicken braised in a chipotle-tomato-onion sauce and shredded.  Excellent for tacos and burritos
 description: chicken braised in a chipotle-tomato-onion sauce and shredded
 cuisine: Mexican
