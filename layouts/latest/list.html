@@ -16,7 +16,7 @@
                             </div>
                             <div class="latest-recipe-info">
                                 <a href="{{.Permalink}}" class="latest-recipe-info-title">{{.Title}}</a>
-                                <div class="latest-recipe-info-summary">{{.Params.description}}</div>
+                                <div class="latest-recipe-info-summary">{{.Params.description | markdownify}}</div>
                             </div>
                         </li>
                     {{ end }}
