@@ -20,6 +20,7 @@ These are great in tacos, quesadillas, and hot hoagies.  There likely won't be l
 * **1.5 - 2 lbs** chicken thighs
 * **1/4 cup** mayo
 * **1** lime
+* **1 tsp** garlic powder
 * **1 tsp** kosher salt
 * **1-2 tsp** cinnamon-sugar mix{{< super-notes "1" >}}
 * **1/4 tsp** Mexican oregano
@@ -28,7 +29,7 @@ These are great in tacos, quesadillas, and hot hoagies.  There likely won't be l
 ## Marinade
 
 1. Debone chicken thighs if needed, cut into bite-size pieces
-2. In medium bowl, mix chicken with mayo{{< super-notes "2" >}}, kosher salt, half cinnamon-sugar mix, and Mexican oregano
+2. In medium bowl, mix chicken with mayo{{< super-notes "2" >}}, garlic powder, kosher salt, half cinnamon-sugar mix, and Mexican oregano
 3. Put in fridge uncovered for up to 12 hours
 
 {{< gallery match="images/marinade/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
