@@ -5,7 +5,8 @@ draft: false
 summary: Soft, Italian-style bread like you get at the supermarket, but much better flavor and texture.  Sturdy enough for loaded, gut-bomb hoagies.  Slice it lengthwise and make garlic bread or cheesy garlic bread, like the appetizers at a pizza shop.  Slice it crosswise, toast, and top with soft cheeses as a lighter alternative to a toasted baguette.
 description: great for sandwiches, the best for cheesy garlic bread
 cuisine: Italian
-tags: [sandwiches]
+tags: [sandwiches, hoagies]
+related: [hoagies]
 tools: [mixer, baguette pans]
 yield: 6 rolls, 10"-12" long
 credit: inspired by [KAF Italian Supermarket Bread](https://www.kingarthurbaking.com/recipes/italian-supermarket-bread-recipe)
