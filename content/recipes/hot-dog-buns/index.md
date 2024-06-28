@@ -43,6 +43,6 @@ Set oven to 425°F.  Beat 1 egg with a splash of milk or water until well-combin
 
 ## Notes
 
-1. **Dough Weight** => [buns and rolls dough](/recipes/buns-and-rolls/) yields 1480g, more than is needed here.  I like to shape a couple [hoagie rolls](/recipes/soft-hoagies-rolls), hamburger buns, or [runzas](/recipes/runzas) with the extra dough.
+1. **Dough Weight** => [buns and rolls dough](/recipes/buns-and-rolls/) yields 1480g, more than is needed here.  I like to shape a couple [hoagie rolls](/recipes/soft-hoagie-rolls), hamburger buns, or [runzas](/recipes/runzas) with the extra dough.
 2. **Rolling Pins** => small ones work best, like the kind for dumplings.  They are cheap at Asian grocery stores
 3. **Poke Test** => imprint the dough with your finger. If it doesn't spring back all the way, the dough has passed the poke test and is ready to be baked.
