@@ -21,6 +21,16 @@ See [tips and tricks](#the-gist) and the [Hoagie Roll recipe](recipes/soft-hoagi
 
 {{< gallery match="images/1-classic-italian/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
+## #2 - Turkey Swiss
+
+> turkey, swiss
+>
+> roma tomatoes, mixed salad, giardiniera, [deli dressing](https://marconi-foods.com/products/submarine-dressing?variant=31949004111969)
+
+{{< smart-img src="images/turkey-swiss.jpg" >}}
+
+{{< gallery match="images/2-turkey-swiss/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## The Gist
 
 The list below is tips and tricks I've picked up.  I have many!

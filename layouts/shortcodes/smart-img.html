@@ -1,0 +1,17 @@
+{{ $src := .Get "src" }}
+{{ with .Page.Resources.GetMatch $src }}
+  {{ $imgLarge := (.Resize "1500x").RelPermalink }}
+  {{ $imgMedium := (.Resize "1200x").RelPermalink }}
+  {{ $imgSmall := (.Resize "800x").RelPermalink }}
+
+  <div class="image-container">
+    <picture>
+      <source media="(min-width: 1200px)" srcset="{{ $imgLarge }}">
+      <source media="(min-width: 800px)" srcset="{{ $imgMedium }}">
+      <source media="(min-width: 500px)" srcset="{{ $imgSmall }}">
+      <img src="{{ $imgMedium }}" alt="{{ $.Page.Title }}" class="content">
+    </picture>
+  </div>
+{{ else }}
+  <p>Image not found: {{ $src }}</p>
+{{ end }}
