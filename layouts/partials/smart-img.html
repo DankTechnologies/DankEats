@@ -2,7 +2,7 @@
 
 {{ if $src }}
   {{ if .IsThumb }}
-    {{ $imgThumb := $src.Fill "100x100 center" }}
+    {{ $imgThumb := $src.Fill "250x250 center" }}
     <img src="{{ $imgThumb.RelPermalink }}" width="{{ $imgThumb.Width }}" height="{{ $imgThumb.Height }}" alt="{{ .Page.Title }}">
   {{ else }}
     {{/* Pre-resize images and assign to variables */}}

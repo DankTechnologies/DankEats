@@ -3,8 +3,8 @@ title = 'DanK Eats'
 languageCode = "en-us"
 theme = ['hello-friend-ng', 'hugo-shortcode-gallery']
 
-paginate  = 10
-rssLimit  = 10
+paginate  = 15
+rssLimit  = 15
 
 buildDrafts = false
 disableRSS = false
@@ -40,13 +40,13 @@ disableRSS = false
 
 [[menu.main]]
   identifier = "find"
-  name = "Find"
+  name = "Find Recipes"
   url = "/find"
 
-[[menu.main]]
-  identifier = "recipes"
-  name = "Latest Recipes"
-  url = "/recipes"
+# [[menu.main]]
+#   identifier = "recipes"
+#   name = "Latest Recipes"
+#   url = "/recipes"
 
 
 [markup]

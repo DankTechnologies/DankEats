@@ -4,34 +4,32 @@
 {{ end }}
 
 {{ define "main" }}
-    <main aria-role="main" class="home">
-        <div>
-            <h1>{{ .Site.Params.homeTitle }}</h1>
+    {{ $recipesPages := where .Site.Pages "Section" "recipes" }}
+    {{ $paginator := .Paginate $recipesPages }}
 
-            {{ if .Site.Params.Portrait.Path }}
-               <img src="{{ .Site.Params.Portrait.Path }}" class="home" alt="{{ .Site.Params.Portrait.Alt }}" width="{{ .Site.Params.Portrait.Width }}" height="{{ .Site.Params.Portrait.Height }}" />
-            {{ end }}
-
-            {{- with .Site.Params.homeSubtitle }}
-            <p>{{.}}</p>
-            {{- end }}
-
-            {{/*  {{ $.Scratch.Set "terms" (slice) }}
-            {{ range $taxonomyName, $taxonomy := .Site.Taxonomies }}
-            {{ range $key, $value := $taxonomy }}
-                {{ $.Scratch.Add "terms" (dict "term" $key "count" (len $value.Pages) "url" (printf "/%s/%s" $taxonomyName $key)) }}
-            {{ end }}
-            {{ end }}
-            {{ $popularTerms := (sort ($.Scratch.Get "terms") "count" "desc" ) | first 5 }}
-            {{ range $popularTerms }}
-                <button class="button">
-                    <a href="{{ .url }}">
-                    {{ .term | humanize }} {{ .count }}
-                    </a>
-                </button>
-            {{ end }}  */}}
-
-            <p class="recipe-links"><a href="{{ "find/" | relLangURL }}">find recipes</a> or <a href="{{ "recipes/" | relLangURL }}">see the latest</a></p>
-        </div>
+    <main class="latest-recipes">
+        {{ range $paginator.Pages.GroupByDate "Jan 2006" }}
+            <div class="latest-recipes-year">{{ .Key }}</div>
+            <hr>
+            <div class="latest-recipes-group">
+                <ul class="latest-recipes-list">
+                    {{ range .Pages }}
+                        <li class="latest-recipe">
+                            <div class="latest-recipe-thumb">
+                                <a href="{{.Permalink}}">
+                                    {{ partial "smart-img.html" (dict "Page" . "IsThumb" true) }}
+                                </a>
+                            </div>
+                            <div class="latest-recipe-info">
+                                <a href="{{.Permalink}}" class="latest-recipe-info-title">{{.Title}}</a>
+                                <div class="latest-recipe-info-summary">{{.Params.description | markdownify}}</div>
+                            </div>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
+        {{ end }}
+    {{ partial "pagination-list.html" . }}
     </main>
 {{ end }}
+

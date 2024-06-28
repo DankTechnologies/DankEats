@@ -13,15 +13,7 @@ toc: true
 
 See [tips and tricks](#the-gist) and the [Hoagie Roll recipe](recipes/soft-hoagie-rolls)
 
-## #1 - Classic Italian
-
-> provolone, your meat of choice
->
-> roma tomatoes, [julienned](https://en.wikipedia.org/wiki/Julienning) lettuce, dill pickles, pickled red onions, [deli dressing](https://marconi-foods.com/products/submarine-dressing?variant=31949004111969)
-
-{{< gallery match="images/1-classic-italian/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
-
-## #2 - Turkey Swiss
+## #1 - Turkey Swiss
 
 > turkey, swiss
 >
@@ -29,7 +21,17 @@ See [tips and tricks](#the-gist) and the [Hoagie Roll recipe](recipes/soft-hoagi
 
 {{< smart-img src="images/turkey-swiss.jpg" >}}
 
-{{< gallery match="images/2-turkey-swiss/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="images/1-turkey-swiss/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## #2 - Classic Italian
+
+{{< smart-img src="hoagies.jpg" >}}
+
+> provolone, your meat of choice
+>
+> roma tomatoes, [julienned](https://en.wikipedia.org/wiki/Julienning) lettuce, dill pickles, pickled red onions, [deli dressing](https://marconi-foods.com/products/submarine-dressing?variant=31949004111969)
+
+{{< gallery match="images/2-classic-italian/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## The Gist
 
