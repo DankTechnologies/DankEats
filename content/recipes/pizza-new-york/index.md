@@ -29,11 +29,7 @@ yield: Two 17" pizzas
 
 ### Sauce
 
-* **28 oz** crushed tomatoes
-* **1/2 tsp** oregano
-* **1** garlic clove
-* salt, to taste
-* sugar, to taste
+* [Pizza Sauces](recipes/pizza-sauce)
 
 {{< /column >}}
 {{< column >}}
@@ -54,12 +50,11 @@ yield: Two 17" pizzas
 
 ## Day 4 or 5 - Pizza Day
 
-1. **Sauce (anytime)** => scrape tomatoes into bowl or measuring cup and taste.  Salt comes first.  Add a pinch and taste, until it doesn't taste bland but also doesn't taste salty.  Crush the oregano leaves in your palm before adding.  Press or finely mince garlic clove before adding.  Mix and taste.  If it tastes too savory or sharp, add a pinch of sugar to balance it out.  Leave uncovered at room temp
-2. **Pizza Prep (-90 min)** => set oven to max, with stones/steels in place.  Remove dough containers from fridge.  Shred cheese and prepare toppings.  Get out peel, screens, and flour.  Lightly grease pizza screens for insurance
-3. **Stretch** => dust counter and top of dough ball with flour.  Put container upside-down and tap on counter to release dough ball.  Add flour and flip dough so top side is on top.  Use finger tips to press dough towards the edges.  Don't press the center too much.  Flip and repeat 2 times.  Top side should be back on top.  Lift dough off counter and toss between your hands while rotating, [like in this video](https://youtu.be/6CnvLURUE7s?t=120), until it's roughly the size of the screen.  Lay onto screen and use both hands to go around and stretch sections to fit the screen.  Look for thicker sections and get them stretched to match.  Repeat for 2nd pizza
-4. **Dress** => pour 1 cup sauce into middle and spread almost to edges, with a spoon or clean hands.  The dough is very thin, so work with care.  Add relatively-light layer of cheese.  You should be able to see the red sauce throughout.  Top with pepperoni or whatever.  Repeat for 2nd pizza
-5. **Bake (~7 min)** => Move pizza screens to oven, centering on the stones/steels.  Bake for 2-3 minutes.  Use peel and oven glove to rotate screens 180°.  Bake for 2-3 minutes.  Slide pizzas off screens, by sliding the peel between them, and using the oven glove to remove the screen.  Peek at the bottoms.  If the bottoms are done but the tops are not, turn on broiler. Bake for another 1-2 minutes, keeping a close eye, until tops are done.
-6. **Finish** => move pizzas to cooling racks.  Top with grated parm/pecorino and oregano.  Slice and serve hot
+1. **Pizza Prep (-90 min)** => set oven to max, with stones/steels in place.  Remove dough containers from fridge.  Shred cheese and prepare toppings.  Get out peel, screens, and flour.  Lightly grease pizza screens for insurance
+2. **Stretch** => dust counter and top of dough ball with flour.  Put container upside-down and tap on counter to release dough ball.  Add flour and flip dough so top side is on top.  Use finger tips to press dough towards the edges.  Don't press the center too much.  Flip and repeat 2 times.  Top side should be back on top.  Lift dough off counter and toss between your hands while rotating, [like in this video](https://youtu.be/6CnvLURUE7s?t=120), until it's roughly the size of the screen.  Lay onto screen and use both hands to go around and stretch sections to fit the screen.  Look for thicker sections and get them stretched to match.  Repeat for 2nd pizza
+3. **Dress** => pour 1 cup sauce into middle and spread almost to edges, with a spoon or clean hands.  The dough is very thin, so work with care.  Add relatively-light layer of cheese.  You should be able to see the sauce throughout.  Top with pepperoni or whatever.  Repeat for 2nd pizza
+4. **Bake (~7 min)** => Move pizza screens to oven, centering on the stones/steels.  Bake for 2-3 minutes.  Use peel and oven glove to rotate screens 180°.  Bake for 2-3 minutes.  Slide pizzas off screens, by sliding the peel between them, and using the oven glove to remove the screen.  Peek at the bottoms.  If the bottoms are done but the tops are not, turn on broiler. Bake for another 1-2 minutes, keeping a close eye, until tops are done.
+5. **Finish** => move pizzas to cooling racks.  Top with grated parm/pecorino and oregano.  Slice and serve hot
 
 ## Gallery
 
