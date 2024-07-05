@@ -50,7 +50,7 @@ Radish and chive are also good
 
 Do these steps the day before, at least.
 
-1. **Pasta** => Add couple tbsp salt and vinegar to pot of water and set to boil.  Set timer to 2 minutes short of al dente, or the smallest number in the cook time range on the box.  Set up strainer in sink and get a large bowl out.  Taste pasta when timer goes off.  Cook until almost al dente, where there's a chew but the pasta isn't hard.  Strain (do not rinse) and then move pasta to the bowl.  Swirl the pasta around to help it cool.  Let cool completely at room temp, or the fridge to speed things up.  The pasta should taste salty, as there's no salt in the dressing
+1. **Pasta** => Add couple tbsp salt and vinegar to pot of water and set to boil.  Set timer to 2 minutes short of al dente, or the smallest number in the cook time range on the box.  Set up strainer in sink and get a large bowl out.  Taste pasta when timer goes off.  Cook until almost al dente, where there's a chew but the pasta isn't hard.  Strain (do not rinse) and then move pasta to the bowl.  Swirl the pasta around to help it cool.  Let cool completely at room temp, or in the fridge to speed things up.  The pasta should taste salty, as there's no salt in the dressing
 2. **Vegetables** => Prep vegetables while pasta is cooking.  The pieces should be small, bite-sized dice.  Move red onions to a small bowl with a few splashes of vinegar, and mix.  This lowers their intensity from a 10 to a 3.
 3. **Dressing** => whisk together mayo, sour cream, vinegar, garlic powder, and sugar until smooth
 4. **Combine** => when pasta is completely cooled, mix with dressing and vegetables.  Cover and move to fridge
