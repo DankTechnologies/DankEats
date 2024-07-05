@@ -1,7 +1,7 @@
 ---
 title: "Chicago-Style Thin Crust Pizza"
 date: 2024-07-04T00:29:59-05:00
-draft: true
+draft: false
 summary: People associate Chicago with deep dish pizza, which is fine, for special occassions...it's fine.  But it's the thin crust pizza that is the true Chicago-style pizza, with its cracker crust and fennel-heavy sausage, always "party cut" into squares.
 description: the real Chicago-style pizza
 cuisine: American
