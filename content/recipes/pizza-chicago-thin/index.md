@@ -62,11 +62,13 @@ Get 3 greased containers ready for dough balls.  Punch down dough and divide int
 2. **Roll** => dust rolling mat or counter and top of dough ball with flour.  Put container upside-down and tap on counter to release dough ball.  Pat the dough out into a ~10" circle with your hands, adding more flour if needed.  Then switch to rolling pins, rolling to an even 16" circle, adding more flour if needed.  Use fingertips to smoosh the edges, this makes them cracker-y instead of bread-y.  Move dough to parchment paper, and repeat for the other two dough balls.
 3. **Dock** ==> dock each dough with a docker or fork tines, to prevent bubbles and a messy bake due to ingredients sliding around.
 
+Don't worry about the doughs drying out, that's not a bad thing with this style.  They will keep for ~30-60 minutes before dressing.
+
 {{< gallery match="images/roll/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Day 4 - Dress and Bake
 
-1. **Dress** => pour 3/4 to 1 cup sauce into middle and spread almost to edges, with a spoon or clean hands.  The dough is very thin, so work with care.  Add relatively-light layer of cheese.  You should be able to see the sauce throughout.  Top with sausage or whatever.  Repeat for 2nd pizza.  I dress the third when the first two are almost done.
+1. **Dress** => pour 3/4 to 1 cup sauce into middle and spread almost to edges, with a spoon or clean hands.  Toppings under cheese, except for pepperoni, is my rule.  Add relatively-light layer of cheese.  You should be able to see the sauce throughout.  Repeat for 2nd pizza.  I dress the third when the first two are almost done.
 2. **Bake (~12 min)** => Drop oven to 450°F.  Launch parchment+pizza with peel, centering on the stones/steels.  Bake for 5 minutes.  Use peel and oven glove (or careful hand) to rotate pizzas 180° and remove parchment.  Bake for 5 minutes.  Peek at the bottoms.  If the bottoms are done but the tops are not, turn on broiler. Bake for another 1-2 minutes, keeping a close eye, until tops are done.  This style is cooked well-done; there'll be browning on the cheese, dark brown edges are OK.
 3. **Finish** => move pizzas to cooling racks, and top with grated parm/pecorino and oregano. Let cool for at least 5 minutes.  The sauce is molten in the middle, and the cheese may look a litle soupy if you went heavy on sauce and toppings...it will congeal a bit as it cools, don't worry.  Move to cutting board, do a "party cut" grid-style cut, and serve hot.
 
