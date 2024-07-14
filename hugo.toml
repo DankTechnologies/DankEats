@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://dankeats.io/"
 title = 'DanK Eats'
 languageCode = "en-us"
 theme = ['hello-friend-ng', 'hugo-shortcode-gallery']
