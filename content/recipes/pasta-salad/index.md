@@ -66,4 +66,4 @@ Uncover and stir.  Add spoonful or two of mayo at a time, and stir, until it loo
 ## Notes
 
 1. **Bell Peppers** => if not in-season, sub with mini sweet peppers, which tend to taste great year-round and keep for a couple weeks
-2. **Pasta Type** => I really like rotini, but there's other good choices like large elbow macaroni, fusili, gemini, etc.  Find what you like best
+2. **Pasta Type** => I really like rotini, but there's other good choices like large elbow macaroni, fusili, gemelli, etc.  Find what you like best
