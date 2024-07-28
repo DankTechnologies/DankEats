@@ -23,7 +23,7 @@ credit: inspired by [Tori Avey](https://toriavey.com/whitefish-salad/)
 
 ## Steps
 
-1. **Prep tools** => get a **bag to throw out** ready, like an organic waste bag or plastic grocery bag.  **Rubber gloves** if you have them.  **Cutting board**, **glass bowl**, and a **strainer**
+1. **Prep workspace** => get a plastic or organic waste bag, cutting board and sharp knife, glass bowl, and strainer.  Rubber gloves if you have them
 2. **Prep add-ins** => cut the two lemons in half, small dice the red onion and rinse in a strainer, mince the fresh herbs
 3. **Fish** => remove skin gently.  To debone, you can try with a fork, where you gently pull from the middle outwards, along the spine.  Or you can give up and use your hands.  Move the pieces from the cutting board to the bowl, looking for pin bones as you go.  There's a mix of large and small bones; do a final pass for them in the bowl.
 4. **Lemons** => lemon juice makes the flavor {{< stretch-text text="absolutely pop" >}}.  Try the whitefish before and after adding half-lemon juice.  Then repeat with another half-lemon juice, to taste.  With 2 chunks whitefish, I find 1.5 - 2 lemons worth is the sweet spot, where the flavor is really enhanced, but doesn't have a dominant lemon taste
