@@ -4,7 +4,7 @@ date: 2024-03-09T21:46:40-06:00
 draft: false
 summary: This 2-day project has you making the dough on Day 1 and boiling + baking on Day 2.  These bagels have a lovely flavor and a crisp, golden crust.  It takes some practice but, when you get it down, you will hold your own against the best bagel shops in town.
 description: New York style bagels, chewy and malty with a nice crust
-related: [bagel-and-lox]
+related: [bagel-and-lox, whitefish-salad]
 tags: [baking, breakfast]
 cuisine: Jewish
 tools: [mixer, sheet pan, roasting pan, bucket with lid, water spray bottle]

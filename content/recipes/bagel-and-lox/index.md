@@ -4,7 +4,7 @@ date: 2024-03-22T01:24:25-05:00
 draft: false
 description: Cream cheese schmear on a toasted bagel, topped with smoked salmon, capers, and red onion
 tags: [breakfast]
-related: [bagels]
+related: [bagels, whitefish-salad]
 cuisine: Jewish
 ---
 

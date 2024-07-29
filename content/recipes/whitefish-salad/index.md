@@ -5,7 +5,8 @@ draft: false
 summary: find a seafood deli that offers chunks of smoked whitefish.  Couple of those, couple lemons and some red onion + fresh herbs, with just enough mayo, and you've got whitefish salad.
 description: lox's good friend for bagels
 cuisine: Jewish
-tags: [ smoked, mayo, bagels ]
+related: [bagel-and-lox, bagels]
+tags: [fish, breakfast]
 tools: [glass bowl, stainer, cutting board]
 yield:
 credit: inspired by [Tori Avey](https://toriavey.com/whitefish-salad/)
