@@ -4,8 +4,8 @@
 {{ end }}
 
 {{ define "main" }}
-    {{ $recipesPages := where .Site.Pages "Section" "recipes" }}
-    {{ $paginator := .Paginate $recipesPages }}
+    {{ $recipesPages := .Site.GetPage "section" "recipes" }}
+    {{ $paginator := .Paginate $recipesPages.RegularPages }}
 
     <main class="latest-recipes">
         {{ range $paginator.Pages.GroupByDate "Jan 2006" }}
