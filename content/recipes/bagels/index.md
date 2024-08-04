@@ -51,6 +51,8 @@ credit: Adapted from Peter Reinhart's recipe
 2. Stir in flour with spatula until well-mixed
 3. Cover and leave at room temp
 
+{{< gallery match="images/sponge/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Dough (Day 1, Evening)
 
 1. In mixer bowl, mix sponge and water with spatula
@@ -64,6 +66,8 @@ credit: Adapted from Peter Reinhart's recipe
 9. Check for windowpane
 10. Repeat the _mix and rest_ cycle until dough passes the windowpane test
 11. Cover and rest for ~10 minutes
+
+{{< gallery match="images/dough/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Ball Up (Day 1, Evening)
 
@@ -83,6 +87,8 @@ credit: Adapted from Peter Reinhart's recipe
 4. Place onto sheet pan and repeat
 5. _Float test_ - Fill small bowl with water and gently add a bagel.  If it sinks, wait 15-30 minutes{{< super-notes "5" >}} and try again.
 6. Cover sheet pan and put in fridge
+
+{{< gallery match="images/shape/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Boil and Bake (Day 2, Whenever)
 
@@ -109,6 +115,8 @@ credit: Adapted from Peter Reinhart's recipe
 13. Bake for 8 minutes, then quickly rotate sheet pan, and bake until golden or to taste (~5 more minutes)
 14. Repeat for next batch of 6{{< super-notes "7" >}}
 
+{{< gallery match="images/boil-bake/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Notes
 
 1. **High-gluten flour** => Bread flour plus vital wheat gluten is a good substitute. Adjust recipe to use 1313 g flour + 50g vital wheat gluten.
@@ -118,7 +126,3 @@ credit: Adapted from Peter Reinhart's recipe
 5. **Hot Weather** => In summer, use shorter turnaround times for the steps, since the dough can overproof on hot days.  Less yeast and ice water help slow things down too
 6. **Shaping** => It's easier to fix the shape on Day 2 when the dough is cold
 7. **Efficiency** => You can save time by boiling the 2nd batch while the first bakes.  With two sheet pans in the oven, you may have to rotate and swap the pans, since the lower pan will get hotter on the bottom.  Don't take too much heat out of the oven
-
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
