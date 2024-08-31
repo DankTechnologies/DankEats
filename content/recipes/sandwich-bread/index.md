@@ -52,7 +52,7 @@ credit: Adapted from [KAF Sourdough Sandwich Bread](https://www.kingarthurbaking
 ## Notes
 
 1. **Sourdough Starter** => It can be ripe or discard, doesn't matter.  If you don't have sourdough starter, sub in 150g flour + 150g water
-2. **Flour Mix** => Sub in 10-20% whole-wheat, rye, spelt, harvest grains, semolina, whatever.  You may need to add more water to compensate
+2. **Flour Mix** => Sub in 10-20% whole-wheat, rye, spelt, harvest grains, semolina, whatever.  You may need to add more water to compensate, since these flours tend to absorb more water than white flour
 3. **Rolling Towards a Thin Edge** => This becomes the seam on the bottom of the loaf.  Making this part thinner results in a smaller seam, one that's easier to seal
 
 ## Gallery
