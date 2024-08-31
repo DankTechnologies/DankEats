@@ -1,6 +1,6 @@
 ---
 title: "Focaccia + Pan Pizza"
-date: 2024-06-27T23:34:44-05:00
+date: 2024-08-30T23:34:44-05:00
 draft: false
 summary: If you're new to baking or pizza, this is the place to start.  All you need is a large bowl and a pan of your choice...cast iron, sheet pans, brownie pans all will work nicely.  The recipe is forgiving and most of the work is done days in advance, making for an easy bake day and a great pizza night
 description: the easiest bread recipe on here
