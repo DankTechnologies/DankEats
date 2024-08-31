@@ -45,7 +45,7 @@ Pulled from the fridge, the dough will take 2-6 hours to rise, temp dependent (8
 
 ## Make Dough
 
-In large bowl, mix ingredients in listed order, using spatula and then switching to a hand, when the flour gets too difficult to mix.  Switch between squeezing/clawing the dough between your fingers and stretch+fold or slap+fold, for about a minute. Use butter knife and clean hand to scrape the dough off the other hand.
+In large bowl, mix [ingredients](#ingredients) in listed order, using spatula and then switching to a hand, when the flour gets too difficult to mix. Switch between squeezing the dough between your fingers and scooping the bottom and sides to the top, for about a minute. Use butter knife and clean hand to scrape the dough off the other hand.  The ingredients should all be well-mixed and the dough will be shaggy and sticky.
 
 {{< gallery match="images/dough/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
@@ -55,7 +55,7 @@ Cover and let rest for 5-10 minutes.  Stretch and fold by reaching under the dou
 
 Grab pans + olive oil + parchment paper{{< super-notes "3" >}}.
 
-Cut parchment paper to size of pan.  Drizzle pan with olive oil, and use hand to coat bottom and sides.  Put down parchment paper and add 1/4 cup olive oil for a half-sheet pan and 2-3 tbsp for smaller pans, as a baseline to go up from, to taste.
+Cut parchment paper to size of pan.  Drizzle pan with a couple tbsp of olive oil, and use hand to coat bottom and sides.  Put down parchment paper and add 1/4 cup olive oil for a half-sheet pan and 2-3 tbsp for smaller pans, as a baseline to go up from, to taste.
 
 > **Dividing the dough** => dump onto oiled counter and use oily hands to stretch into a rectangle or close enough.  This makes it easier to eyeball where to cut with a dough knife (or whatever you have).  Use oiled hands to coax the cut pieces to match the pan's shape.
 
