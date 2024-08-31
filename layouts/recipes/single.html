@@ -22,6 +22,13 @@
                     {{ partial "tags.html" .Params.tags }}
                 </div>
                 <hr>
+                {{- if .Params.toc }}
+                    <aside id="toc">
+                        <h2>Table of Contents</h2>
+                        {{ .TableOfContents }}
+                        </aside>
+                    <hr />
+                {{- end }}
                 {{ .Content }}
             </div>
             {{ partial "related.html" .Params.related }}
