@@ -2,7 +2,7 @@
 title: "Runzas"
 date: 2024-06-07T23:42:11-05:00
 draft: false
-summary: Runzas are burger bun stuffed with a savory ground beef, cabbage, onion mix.  They are popular in [Oklahoma](https://www.runza.com/menu) and known to the Germans as [Bierock](https://en.wikipedia.org/wiki/Bierock).  They are fun to make and freeze well.  Great with sports.
+summary: Runzas are burger bun stuffed with a savory ground beef, cabbage, onion mix.  They are popular in [Nebraska](https://www.runza.com/menu) and known to the Germans as [Bierock](https://en.wikipedia.org/wiki/Bierock).  They are fun to make and freeze well.  Great with sports.
 description: savory ground beef, cabbage, onion mix inside a burger bun
 cuisine: German
 tags: [buns, ground beef]
