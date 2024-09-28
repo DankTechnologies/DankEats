@@ -30,11 +30,7 @@ credit: Inspired by [Toddzilla](https://www.youtube.com/watch?v=89cRH9-12gU)
 
 ### Sauce
 
-* **28 oz** crushed tomatoes
-* **1/2 tsp** oregano
-* **1** garlic clove
-* salt, to taste
-* sugar, to taste
+* [Pizza Sauces](recipes/pizza-sauce)
 
 {{< /column >}}
 {{< column >}}
@@ -53,6 +49,8 @@ credit: Inspired by [Toddzilla](https://www.youtube.com/watch?v=89cRH9-12gU)
 2. Switch to your hands and knead for 1-2 minutes, ensuring any oil pockets get smoothed out and all the flour gets hydrated.  Form into a shaggy ball. It won't look good, don't worry about it.
 3. Cover bowl and put in fridge for 24-48 hours
 
+{{< gallery match="images/dough/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Day 2 or 3 - Pizza Day
 
 1. **Sauce (anytime)** => scrape tomatoes into bowl or measuring cup and taste.  Salt comes first.  Add a pinch and taste, until it doesn't taste bland but also doesn't taste salty.  Crush the oregano leaves in your palm before adding.  Press or finely mince garlic clove before adding.  Mix and taste.  If it tastes too savory or sharp, add a pinch of sugar to balance it out.  Leave uncovered at room temp
@@ -63,11 +61,9 @@ credit: Inspired by [Toddzilla](https://www.youtube.com/watch?v=89cRH9-12gU)
 6. **Bake (~12-18 min)** => Drop oven to 550°F and move pans to the stones or steels.  Set timer for 5 minutes.  Keep an eye out for any air bubbles and eliminate them with a steak knife. When the timer goes off, rotate the pans 180 degrees if the don't fit on the steel or stone.  White or lightly-topped pizzas may be done around the 10 minute mark.  Heavily-sauced or topped ones will need 5 more minutes.  When the tops look done, remove pans from oven and use spatula to peek at the the bottom.  It should have some color.  Slide onto peel and launch directly onto steel or stone.  The goal is to get the bottom golden-brown and crispy, which may take a minute or three
 7. **Finish** => move pizzas to cooling racks.  Top with grated parm/pecorino and oregano.  Slice and serve hot
 
+{{< gallery match="images/bake/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Notes
 
 1. **Pans** => my pans are the real deal from [Bay State Restaurant Products Inc](https://www.facebook.com/people/Bay-State-Restaurant-Products-Inc/100063631627041/), in Brockton, MA.  I ordered them over the phone from [The Famous Bobby Owens](https://www.barstoolsports.com/blog/3372036/havent-heard-of-the-famous-bobby-owens-and-his-pizza-pans-then-this-is-a-must-read), something like $80 for 4 pans including shipping.  The pans are magic, they still have a mirror finish, and have never come anywhere close to sticking.  That said, I've had decent results with cake pans, just use more Crisco for insurance
 2. **Laced Edges** => this refers to the burnt sauce and cheese that form on the edges since there's no crust.  Personal preference.  I think the crust keeps things more intact and less messy to eat
-
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

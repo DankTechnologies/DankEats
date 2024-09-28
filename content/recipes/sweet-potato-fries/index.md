@@ -30,6 +30,8 @@ credit: Adapted from [Ethan Chlebowski's Baked Sweet Potato Fries](https://www.e
 4. Put in pot, rinse with water, and repeat until water runs clear
 5. Cover pot and leave soaking at room temp (few hours) or in fridge (1-2 days)
 
+{{< gallery match="images/prep/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Make
 
 **Tools** - 2 sheet pans, sheet-pan-sized cooling rack, strainer
@@ -43,11 +45,9 @@ credit: Adapted from [Ethan Chlebowski's Baked Sweet Potato Fries](https://www.e
 7. Move to cooling rack set in clean sheet pan.  If not crispy, bake for ~3-5 more minutes
 8. Remove from oven and hit with a final round of salt.  Serve with BBQ sauce
 
+{{< gallery match="images/make/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Notes
 
 1. **Tweaks to Ethan's recipe** => The main adaptation is shallow frying in more oil and skipping the corn starch slurry.  The slurry does add a crispy shell, but it's extra steps and sticky.  With the shallow frying, you need to be careful when rotating and flipping since the oil is hot and can splash
 2. **Oven Temps and Times** => All ovens are different, so you may need to adjust the temperature and time.  You can hedge your bets against burning the fries by rotating them often.  The edges of the sheet pan cook faster than the middle, so use that to your advantage
-
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

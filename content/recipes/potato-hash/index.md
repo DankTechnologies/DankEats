@@ -49,6 +49,8 @@ yield: serves 2-4
 3. Cut onion into 1/2 inch pieces as well
 4. If not cooking right away, cover potatoes and leave soaking at room temp (few hours) or in fridge (1-2 days).  Cover sweet peppers and onion, move to fridge
 
+{{< gallery match="images/prep/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Make
 
 **Tools** - sheet pan, 2 skillets (idealy one teflon + one not), strainer
@@ -60,12 +62,10 @@ yield: serves 2-4
 5. Add potatoes to hash.  Layer with kosher salt and pepper and cook over medium for a few minutes, then cut the heat or put on low when you're contented with it
 6. Make anything you're topping or serving with.  Sunny side up eggs and buttery toast are the usual around here.  Avocados if you have them.  Sliced oranges in the winter
 
+{{< gallery match="images/make/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Notes
 
 1. **Use it up** => This is a versatile recipe, a very *what food is about to go bad* recipe
 2. **Mini Sweet Peppers** =>  These small, sweet peppers are easy to find at grocery stores and taste great year-round.  Pricier than bell peppers, but those are usually terrible
 3. **Water Drop Test** => AKA reaching the [Leidenfrost point](https://en.wikipedia.org/wiki/Leidenfrost_effect).  In general, when searing or sautéing, add your meat or oil **after** the pan hits this point.  You'll have less issues with food sticking to the pan
-
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

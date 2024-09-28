@@ -34,6 +34,8 @@ credit: Adapted from [Foodgeek Master Recipe for Artisan Sourdough Bread](https:
 7. Put into banneton upside down.  "Stitch" bottom to add some tension
 8. Cover and tent with plastic bag.  Put into fridge
 
+{{< gallery match="images/dough/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Day 2 - Bake
 
 1. Preheat oven to 500°F with 2 dutch ovens for at least 45 minutes
@@ -47,11 +49,9 @@ credit: Adapted from [Foodgeek Master Recipe for Artisan Sourdough Bread](https:
 9. Drop temperature to 450°F and bake for 15-20 more minutes
 10. Move loaves to cooling rack and let cool for at least 4 hours before slicing
 
+{{< gallery match="images/bake/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Notes
 
 1. **Hydration Level** => This is a 70% hydration dough, which is relatively low/dry.  This makes the dough easier to handle and build strength.  More water can be added, but try it this way first
 2. **Longer Fermentations** => For more sour flavors, slow down the bulk ferment by moving to a cool spot, using less starter, or both.  Likewise, the cold ferment in the fridge can be extended by 12-24 hours
-
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

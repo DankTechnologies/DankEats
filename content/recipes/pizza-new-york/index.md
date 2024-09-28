@@ -48,6 +48,8 @@ yield: Two 17" pizzas
 2. Fit mixer with dough hook and mix on lowest speed for one minute.  Slowly add olive oil, with mixer running.  Increase mixer to speed 2 and mix for 5 minutes.  Stop mixer and cover with large bag for 10 minutes.  Mix on speed 2 for 5 more minutes.  Stop mixer, remove dough hook, and shape dough into a ball.  Put back into mixer bowl and cover for 15 minutes
 3. Grease counter and dough containers.  Divide dough into 2 pieces, weighing ~500g each.  Shape into tight balls, pinching the bottom to seal if needed.  Place into containers seam side down, and move to fridge for 72-96 hours
 
+{{< gallery match="images/dough/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
 ## Day 4 or 5 - Pizza Day
 
 1. **Pizza Prep (-90 min)** => set oven to max, with stones/steels in place.  Remove dough containers from fridge.  Shred cheese and prepare toppings.  Get out peel, screens, and flour.  Lightly grease pizza screens for insurance
@@ -56,6 +58,4 @@ yield: Two 17" pizzas
 4. **Bake (~7 min)** => Move pizza screens to oven, centering on the stones/steels.  Bake for 2-3 minutes.  Use peel and oven glove to rotate screens 180°.  Bake for 2-3 minutes.  Slide pizzas off screens, by sliding the peel between them, and using the oven glove to remove the screen.  Peek at the bottoms.  If the bottoms are done but the tops are not, turn on broiler. Bake for another 1-2 minutes, keeping a close eye, until tops are done.
 5. **Finish** => move pizzas to cooling racks.  Top with grated parm/pecorino and oregano.  Slice and serve hot
 
-## Gallery
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="images/bake/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

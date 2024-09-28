@@ -2,7 +2,7 @@
 title: "Papas Con Chorizo"
 date: 2024-09-26T00:13:31-05:00
 draft: false
-summary: a hearty mix that's great in tacos and breakfast burritos.  For tacos, pair with [curtido](/recipes/curtido), a vinegary cabbage slaw, that nicely cuts through the richness.  For the best chorizo links, visit a Mexican grocery store with a deli.  They freeze well so it's worth loading up.
+summary: a hearty mix that's great in tacos and breakfast burritos.  For tacos, pair with [curtido](/recipes/curtido), a vinegary cabbage slaw, that nicely cuts through the richness.  For the best chorizo links, visit a Mexican grocery store with a deli.  The links freeze well so it's worth loading up.
 description: one of the best combos in Mexican cuisine
 cuisine: Mexican
 tags: [potatoes, tacos, burritos]
