@@ -7,6 +7,7 @@ summary: The split-top hot dog bun is the superior hot dog bun, full stop.  Thes
 description: once you go split-top, you won't go back
 cuisine: American
 tags: [sandwiches]
+related: [hot-dogs]
 tools: [mixer, New England Hot Dog Bun pan]
 yield: 10 hot dog buns
 ---
