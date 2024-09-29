@@ -22,6 +22,7 @@ credit: adapted from [Serious Eats's Quick Curtido](https://www.seriouseats.com/
 * **1/2** head of small green cabbage
 * **2-3** carrots
 * **1-2** jalapenos or serranos (optional)
+* **1/4 - 1/2** yellow or white onion (optional)
 * cilantro, small handful
 
 {{< /column >}}
@@ -40,7 +41,7 @@ credit: adapted from [Serious Eats's Quick Curtido](https://www.seriouseats.com/
 ## Make
 
 1. **Dressing** => add vinegar to microwave-safe bowl and microwave for 15 seconds or until warm.  This makes it easier to dissolve the sugar and salt.  Move to fridge to cool faster
-2. **Produce** => use sharp knife and steady hand, or food processor, to finely shred cabbage and carrots.  [Julienne](https://en.wikipedia.org/wiki/Julienning) jalapenos if using, and finely chop cilantro.  Combine in a large bowl
-3. **Combine** => dump cooled dressing into bowl and use fingertips to break up Mexican oregano leaves and remove stems before adding.  Mix well and serve or move to fridge until ready
+2. **Produce** => use sharp knife and steady hand, or food processor, to finely shred cabbage and carrots.  [Julienne](https://en.wikipedia.org/wiki/Julienning) jalapenos and onion pieces if using.  Finely chop cilantro.  Combine in a large bowl
+3. **Combine** => dump cooled dressing into bowl and use fingertips to break up Mexican oregano leaves, and pick out any stems, before adding to the bowl.  Mix well and serve, or move to fridge until ready
 
 {{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
