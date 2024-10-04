@@ -72,7 +72,7 @@ Move shredded chicken to bowl and add half the BBQ sauce and a few spoonfuls of 
 
 Spread chicken out on foil-lined sheet pan and add a few more spoonfuls of the chicken juices
 
-Broil for 3-5 minutes to start, then remove sheet pan from the oven and flip the chicken.  Repeat this for a few rounds, setting shorter timers as you go, until the chicken is crispy.  Add more BBQ sauce if desired
+Broil for 3-5 minutes to start, then remove sheet pan from the oven and flip the chicken.  Repeat this for a few rounds, setting shorter timers as you go, until the chicken is how you want it.  I keep going until chicken is crispy and blackened in parts.  Top with more BBQ sauce if desired
 
 Leave in warm oven until ready to serve
 
@@ -81,5 +81,5 @@ Leave in warm oven until ready to serve
 ## Notes
 
 1. **Gochugaru** usually comes in a bag that's larger than you'd like.  Keep it in your freezer and it'll keep for years
-2. **Cooking the chicken** => crock pot or roasting in an oven work as well, if you don't have a pressure cooker.  Just ensure chicken is well-cooked to 185° or higher, as the connective tissues melt 175°.  If you stop at 165°, the chicken will be tough
+2. **Cooking the chicken** => crock pot or roasting in an oven work as well, if you don't have a pressure cooker.  Just ensure chicken is well-cooked to 185° or higher, as the connective tissues melt at 175°.  If you stop at 165°, the chicken will be tough
 3. **Make-Ahead** => the sauce can be made ahead of time.  The chicken could be cooked ahead of time as well.  Leftovers freeze well too.  Very make-ahead friendly
