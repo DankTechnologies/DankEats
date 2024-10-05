@@ -7,6 +7,7 @@ description: simple, end-game pizza sauces
 cuisine: American
 tags: [pizza, sauce]
 tools: [blender, garlic press]
+toc: true
 ---
 
 ## Red Sauce
@@ -38,3 +39,10 @@ Scrape tomatoes into bowl, or leave in the can.  Taste.  **Salt** comes first.  
 Rough chop greens and garlic (if using), to make life easier for the blender. Add all ingredients you've decided on to the blender, and blend in ~15s intervals until it's whipped cream in consistency, just green.  Move to fridge until ready to use.  Leftover sauce can be frozen; it won't look pretty when you defrost, but the pizza will be great.
 
 {{< gallery match="images/green-cream/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
+## Korean BBQ
+
+* **2 parts** [red sauce](recipes/pizza-sauce/#red-sauce)
+* **1 part** [Korean BBQ Sauce](recipes/korean-pulled-chicken#bbq-sauce)
+
+{{< gallery match="images/korean-bbq/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" imageResizeOptions="1920x1920 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}

@@ -27,7 +27,7 @@ credit: adapted from [Melissa Clark's Pressure Cooker Spicy Pork Shoulder](https
 {{< /column >}}
 {{< column >}}
 
-### BBQ Sauce
+### Korean BBQ Sauce
 
 * **2 tbsp** peanut oil
 * **1 inch** ginger cube
